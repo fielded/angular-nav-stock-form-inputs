@@ -1,0 +1,12 @@
+<div
+  class="col-sm-3 col-sm-offset-1 clearfix stock-form-inputs-component"
+  ng-repeat="type in $ctrl.productTypes track by $index">
+  <div
+    class="form-group"
+    ng-repeat="product in $ctrl.products[type] track by $index">
+    <label for="::product._id" class="col-sm-6 control-label" ng-bind="::product.code"></label>
+    <div class="col-sm-6">
+      <input type="number" class="form-control" id="::product._id" min="0" ng-model="::$ctrl.stock[product._id]" tabindex="$index" ng-change="$ctrl.saveToDraft()">
+    </div>
+  </div>
+</div>

@@ -1,0 +1,17 @@
+{
+  "name": "angular-nav-stock-form-inputs",
+  "description": "Angular NAV module that provides the input fiels for stock products, to be used in stock input forms",
+  "main": "dist/bundle.js",
+  "authors": [
+    "Patricia Garcia <pat@patriciagarcia.me>"
+  ],
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/fielded/angular-nav-stock-form-inputs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
