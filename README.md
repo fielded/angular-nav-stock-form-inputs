@@ -1,5 +1,7 @@
 # angular-nav-stock-form-inputs
 
+**Deprecated**: This repository has been deprecated together with https://github.com/fielded/nav-integrated-state-dashboard.
+
 [![Build Status](https://travis-ci.org/fielded/angular-nav-stock-form-inputs.svg)](https://travis-ci.org/fielded/angular-nav-stock-form-inputs) ![Dependecy Status](https://david-dm.org/fielded/angular-nav-stock-form-inputs.svg) ![Dev Dependecy Status](https://david-dm.org/fielded/angular-nav-stock-form-inputs/dev-status.svg)
 
 ## Installation
